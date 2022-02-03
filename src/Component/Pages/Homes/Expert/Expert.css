@@ -1,0 +1,11 @@
+.expert{
+    display: flex;
+}
+
+.expert i{
+    color: #2CAEE2;
+}
+
+.expert-doctor{
+    margin-top: -5px;
+}

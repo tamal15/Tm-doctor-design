@@ -1,0 +1,83 @@
+.about img{
+    /* background-image: url(https://i.ibb.co/wcG5ZzJ/i-Stock-1248327223-telemedicine-scaled-1.png); */
+    /* width: 828px; */
+/* height: 419px; */
+margin-left: 93.5px;
+margin-left: 50px;
+padding:4px;
+/* position: ; */
+/* top: 799px; */
+/* background-repeat: no-repeat; */
+/* border-radius: 100%; */
+/* position: absolute; */
+}
+.values{
+    /* position: absolute; */
+    width: 438px;
+height: 398px;
+/* left: -134.5px; */
+/* padding-right: 50%; */
+/* top: 845px; */
+border-radius: 50%;
+/* border-left: 400px; */
+border: 1px solid #2CAEE2;
+}
+
+.about-us{
+    width: 532px;
+height: 214px;
+left: 656px;
+margin-top: 115px;
+text-align: left;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+
+}
+
+.bg{
+    background-image: url(https://i.ibb.co/vHdR8ns/Vector-3.png);
+    background-repeat: no-repeat;
+    /* background-position: left; */
+   
+    /* width:100px; */
+    background-size: 100px;
+    
+}
+
+.read{
+    width: 180px;
+height: 42px;
+left: 656px;
+top: 1176px;
+/* text-align: left; */
+/* align-items: left; */
+background: #2CAEE2;
+border-radius: 72px;
+border: cadetblue;
+color:white;
+align-items: left;
+/* margin-left: -360px; */
+}
+
+.parts-us{
+    text-align: left;
+    margin-top:70px;
+    /* font-family: Montserrat; */
+font-style: normal;
+}
+
+.abouts img{
+    width:370px;
+    height:290px;
+}
+
+.about-headen{
+  
+}

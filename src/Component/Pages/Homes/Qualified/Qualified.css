@@ -1,0 +1,32 @@
+.qualified img{
+    margin-right: 107.5px;
+margin-left: -10px;
+padding:4px;
+width:350px;
+height:300px;
+/* padding-right: 8px; */
+}
+
+.valueing{
+    /* position: absolute; */
+    width: 378px;
+height: 298px;
+/* left: -134.5px; */
+/* padding-right: 50%; */
+/* top: 845px; */
+border-radius: 50%;
+/* border-left: 400px; */
+border: 1px solid #2CAEE2;
+}
+
+.part{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 9px;
+}
+
+.part-us{
+    text-align: left;
+    /* font-family: Montserrat; */
+font-style: normal;
+}

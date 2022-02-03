@@ -1,0 +1,78 @@
+.texts{
+    color:black !important;
+    font-size: 20px;
+    padding:12px;
+    margin:6px;
+
+}
+
+.nav-items{
+    width: 70px;
+height: 42px;
+/* left: 656px; */
+/* top: 1176px; */
+/* text-align: left; */
+/* align-items: left; */
+background: #2CAEE2;
+border-radius: 72px;
+border: cadetblue;
+color:white;
+text-decoration: none;
+align-items: center;
+padding: 5px;
+}
+.nav-log{
+    color:white;
+    text-decoration: none;
+    padding: 4px;
+}
+.company{
+    color:#2CAEE2;
+    font-weight: 600;
+}
+
+.navess{
+    /* position: absolute; */
+    /* width: 1210px; */
+    height: 80px;
+    /* left: 0px; */
+    /* top: 20px; */
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 27px rgba(0, 0, 0, 0.15);
+    /* transform: matrix(1, 0, 0, -1, 0, 0); */
+}
+
+.nav{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    padding:12px;
+    margin:6px;
+}
+.drops-buttons{
+   font-size: 23px;
+   padding:8px;
+   margin-top: 5px;
+   color:black;
+}
+.use{
+    color:pink;
+    text-decoration: none;
+    font-size: 23px;
+    padding:12px;
+    margin:6px;
+}
+.log{
+    padding:5px;
+    margin-top: 5px;
+}
+/* .carousel-design{
+    display:inline;
+    grid-template-columns: repeat(2,1fr);
+} */
+/* .styles{
+    text-align: left;
+    margin-left: -620px;
+    margin-top: 20px;
+} */

@@ -1,0 +1,51 @@
+.medicins{
+    display: flex;
+}
+.medicins i{
+    border:1px solid #2CAEE2;
+    border-radius: 80%;
+    width: 70px;
+    height: 35px;
+    /* margin-right: 6px; */
+    font-size: 18px;
+    /* align-items: center; */
+    padding-top: 8px;
+    color:white;
+    background-color:#2CAEE2;
+}
+
+.medicin-text{
+    text-align: left;
+}
+.medicin-head{
+    color:#2CAEE2;
+
+}
+
+.medicin-firsting{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+
+color: #333333;
+margin-top: 90px;
+
+}
+
+.part{
+    /* margin-top: 115px; */
+}
+
+.views-all{
+    width: 180px;
+height: 42px;
+left: 594px;
+top: 3713px;
+border:#2CAEE2;
+color:white;
+background: #2CAEE2;
+border-radius: 72px;
+}
+

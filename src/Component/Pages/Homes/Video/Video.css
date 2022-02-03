@@ -1,0 +1,53 @@
+.video-doctor{
+    background-image: url(https://i.ibb.co/D1MSXMs/Vector-4.png);
+    /* width: 484.12px;
+height: 501.55px;
+left: 680.88px;
+top: 1499.45px; */
+margin-top: 50px;
+}
+.video-doctor img{
+    width: 320px;
+    height:250px;
+}
+
+.video-hidding{
+  /* text-align: left; */
+
+
+
+color: #333333;
+}
+
+.video-para{
+   
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+
+color: #333333;
+}
+
+.video-details{
+    /* width: 502px; */
+/* height: 214px; */
+left: 166px;
+top: 1571px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+text-align: left;
+/* or 171% */
+
+
+color: #000000;
+}
